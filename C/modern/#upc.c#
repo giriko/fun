@@ -1,0 +1,9 @@
+/*
+ * Computes a Universal Product Code check digit
+ */
+
+#include <stdio.h>
+
+int main(void)
+{
+     int d, i1, i2, i
